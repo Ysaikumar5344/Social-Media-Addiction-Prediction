@@ -3,11 +3,11 @@ import pandas as pd
 import pickle
 
 # Load the trained model from the pickle file
-model_path = r"C:\Users\Y SAI KUMAR\MachineLearning\Final Project\Addict.pkl"
+model_path = r"Addict.pkl"
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
-st.image(r"C:\Users\Y SAI KUMAR\Music\innomatics-footer-logo.webp")
+st.image(r"innomatics-footer-logo.webp")
 # Set up the background image with reduced brightness using an overlay
 page_bg_img = f"""
 <style>
