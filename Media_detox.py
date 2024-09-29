@@ -12,7 +12,7 @@ st.image(r"innomatics-footer-logo.webp")
 page_bg_img = f"""
 <style>
 .stApp {{
-    background-image: url("https://cdn.memiah.co.uk/uploads/counselling-directory.org.uk/image_gallery/social-media-use-1694010755-hero.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2022/05/22/10/48/social-media-7213158_1280.png");
     background-size: cover;
     background-position: top center;
     background-blend-mode: darken;
